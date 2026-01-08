@@ -1,0 +1,2 @@
+# SwiftEx-Logistics-Courier-System-Using-Data-Structure-Algorithms
+Advanced courier logistics management system featuring intelligent routing with Dijkstra's algorithm, K-shortest paths, priority-based parcel sorting using min-heaps, real-time tracking, dynamic capacity management, and multi-city delivery optimization. Built in C++ with custom data structures for enterprise-grade performance and scalability.
