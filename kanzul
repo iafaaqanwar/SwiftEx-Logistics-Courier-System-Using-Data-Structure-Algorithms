@@ -1,0 +1,6 @@
+Timestamp,Operation,ParcelID,PreviousState,NewState,RiderID,SrcID,DestID
+2025-12-30 17:01:23,AddParcel,1006,None,Pending,-1,-1,-1
+2025-12-30 17:05:05,ProcessParcel,1006,Pending,In Warehouse,-1,-1,-1
+2025-12-30 17:07:27,AssignRider,1006,In Warehouse,In Transit,6,-1,-1
+2025-12-30 17:07:49,CompleteDelivery,1006,In Transit,Delivered,6,-1,-1
+2025-12-30 17:15:17,UnblockRoute,-1,Blocked,Open,-1,41,41
